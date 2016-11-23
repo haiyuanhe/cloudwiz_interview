@@ -7,5 +7,5 @@
   - Github(项目地址): https://github.com/grafana/grafana
 - 将Grafana 使用的数据库改成 `mysql`. 将修改好的配置文件上传
 - 在Grafana 中新增一个用户, 用户名称是您的名称 . 完成后截图
-- 最后将上面要求的截图和配置文件打包发送到我的邮箱   hehaiyuan.hhy@gmail.com 
+- 最后将上面要求的截图和配置文件打包发送到我的邮箱  heinz_ho@foxmail.com
 - 不清楚题意可以用邮件联系我.
